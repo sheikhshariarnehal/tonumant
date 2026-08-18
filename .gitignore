@@ -21,8 +21,9 @@
 .env.test.local
 .env.production.local
 
-# Vercel
+# Vercel & IDE
 .vercel
+.vscode/mcp.json
 
 # TypeScript
 *.tsbuildinfo
